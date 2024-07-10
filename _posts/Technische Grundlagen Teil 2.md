@@ -1,5 +1,5 @@
 ---
-title: "Technische Grundlage Teil 1"
+title: "Technische Grundlage Teil 2"
 date: 15.02.2024
 ---
 
